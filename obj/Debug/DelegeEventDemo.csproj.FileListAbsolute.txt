@@ -1,0 +1,7 @@
+D:\Programming\CSharp\Practices\Tests\DelegeEventDemo\DelegeEventDemo\bin\Debug\DelegeEventDemo.exe.config
+D:\Programming\CSharp\Practices\Tests\DelegeEventDemo\DelegeEventDemo\bin\Debug\DelegeEventDemo.exe
+D:\Programming\CSharp\Practices\Tests\DelegeEventDemo\DelegeEventDemo\bin\Debug\DelegeEventDemo.pdb
+D:\Programming\CSharp\Practices\Tests\DelegeEventDemo\DelegeEventDemo\obj\Debug\DelegeEventDemo.csprojAssemblyReference.cache
+D:\Programming\CSharp\Practices\Tests\DelegeEventDemo\DelegeEventDemo\obj\Debug\DelegeEventDemo.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\Practices\Tests\DelegeEventDemo\DelegeEventDemo\obj\Debug\DelegeEventDemo.exe
+D:\Programming\CSharp\Practices\Tests\DelegeEventDemo\DelegeEventDemo\obj\Debug\DelegeEventDemo.pdb
